@@ -6,4 +6,4 @@ Fa uso della libreria SoundLoop.
 
 Versione minima richiesta per funzionare: Android 6.0 (API 23).
 
-Il programma è privo di file audio.
+Il programma al momento è privo di file audio.
